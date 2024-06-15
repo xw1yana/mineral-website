@@ -1,6 +1,6 @@
 # Minerals Website
 
-Many thanks to Senior Lecturer Andrii Danylov for his contribution to the website, as well as for all the lectures on minerals.
+Thanks to Senior Lecturer Andrii Danylov for his contribution to the website, as well as for all the lectures on minerals.
 
 Bootstrap Physics website for solutions, but could easily be changed to fit any business. Dark-themed design with modals and other features.
 
