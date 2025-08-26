@@ -1,7 +1,5 @@
 # Minerals Website
 
-Thanks to Senior Lecturer  for his contribution to the website, as well as for all the lectures on minerals.
-
 Bootstrap Physics website for solutions, but could easily be changed to fit any business. Dark-themed design with modals and other features.
 
 ## Features
@@ -41,4 +39,5 @@ npm run sass:watch
 You can add Bootstrap variables to the `bootstrap.scss` file. You can look at the file `node_modules/bootstrap/dist/scss/_variables.scss` for a list of all the variables. Do NOT edit the `variables.scss` file directly, as it will be overwritten when you update Bootstrap.
 
 To add your own custom styles, use the `styles.scss` file.
+
 
